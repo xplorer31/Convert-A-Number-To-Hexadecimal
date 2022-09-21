@@ -1,0 +1,37 @@
+function dec2Hex(dec) {
+    return Math.abs(dec).toString(16);
+  if (dec < 0)
+    return 
+};
+
+console.log(dec2Hex(26)); 
+console.log(dec2Hex(-1)); 
+
+
+
+
+
+const hexList = {
+  0: "0"
+
+
+
+  9:"9"
+  10:"a"
+
+
+
+
+  15:"f"
+}
+
+let results = "";
+
+conditional statements
+while loops / if statments
+
+
+
+if (num === 0) {
+  return hexList[0]
+}
